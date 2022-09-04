@@ -1,9 +1,9 @@
 # data_analysis_portfolio
-
+About
+----------
 This repository is about projects that I have completed during my data analysis course :
 - Tools : SQL, Python, Tableau, Knime
 - Skills : Database, Data cleaning, Data processing, EDA, Visualisation, Workflow, Machine Learning
-
 
 
 Ce repository présente les projets réalisé pendant ma formation de data analyse :
