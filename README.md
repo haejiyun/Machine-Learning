@@ -1,6 +1,6 @@
 # data_analysis_portfolio
 <br/>
-This repository is about projects that I have completed during my data analysis course : <br/><br/>
+This repository is about projects that I have completed during my data analysis course. <br/><br/>
 Tools : SQL, Python, Tableau, Knime <br/><br/>
 Skills : Database, Data cleaning, Data processing, EDA, Visualisation, Workflow, Machine Learning <br/>
 <br/>
