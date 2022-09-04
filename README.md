@@ -22,20 +22,34 @@ Table of contents
 - Machine Learning : Fake Bill Detection
 
 
-[SQL]Creation of Housing Database and Queries
+[SQL] Creation of Housing Database and Queries
 Presentation :
 
-[Analysis] Panorama of Food Security
 
+
+[Analysis] Panorama of Food Security
+Code :
+Presentation :
 
 [Database] E-commerce Product Database
+Code :
+Presentation :
 
 [Analysis] E-commerce sales and customer profile
+Code :
+Presentation :
 
-[Knime] Gender Equality Indicator Workflow
+[Knime] Gender Equality Indicator WorkflowCode :
+Workflow :
+Presentation :
 
 [Tableau] Drinking Water Dashboard
+Tableau :
 
 [Clustering] Country Market
+Code :
+Presentation :
 
 [Machine Learning] Fake Bill Detection
+Code :
+Presentation :
