@@ -1,11 +1,10 @@
 # data_analysis_portfolio
 <br/>
-<br/>
 This repository is about projects that I have completed during my data analysis course : <br/>
 Tools : SQL, Python, Tableau, Knime <br/>
 Skills : Database, Data cleaning, Data processing, EDA, Visualisation, Workflow, Machine Learning <br/>
 <br/>
-<br/>
+
 ----------
 
 - **[SQL] Creation of Housing Database and Queries**<br/>
