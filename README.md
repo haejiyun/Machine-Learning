@@ -12,6 +12,7 @@ Ce repository présente les projets réalisé pendant ma formation de data analy
 
 
 Table of contents
+----------
 - SQL : Creation of Housing Database and Queries
 - Analysis : Panorama of Food Security
 - Database : E-commerce Product Database
