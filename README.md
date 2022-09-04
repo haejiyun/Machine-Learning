@@ -25,11 +25,17 @@ Table of contents
 [SQL]Creation of Housing Database and Queries
 Presentation :
 
+[Analysis] Panorama of Food Security
 
-Analysis : Panorama of Food Security
-Database : E-commerce Product Database
-Analysis : E-commerce sales and customer profile
-Knime : Gender Equality Indicator Workflow
-Tableu : Drinking Water Dashboard
-Clustering : Country Market
-Machine Learning : Fake Bill Detection
+
+[Database] E-commerce Product Database
+
+[Analysis] E-commerce sales and customer profile
+
+[Knime] Gender Equality Indicator Workflow
+
+[Tableau] Drinking Water Dashboard
+
+[Clustering] Country Market
+
+[Machine Learning] Fake Bill Detection
