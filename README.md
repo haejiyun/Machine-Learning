@@ -37,13 +37,13 @@ Creation of workflow generating graphics showing gender equality within a compan
 <br/>
 
 - **[Tableau] Drinking Water Dashboard**<br/>
-Dashboard : [click here]()<br/>
+Dashboard : []()<br/>
 Creation do dashboard presenting drinking water situation in the world. Datasets related to country, political stability, mortality in relation with water, population, and drinking water were used to visualize differents safe water indicators.
 <br/>
 
 - **[Clustering] Country Food Market**<br/>
-Code : [click here]()<br/>
-Presentation : [click here]()<br/>
+Code : []()<br/>
+Presentation : []()<br/>
 Country group analysis by clustering. Country groups were made based on information collected from datasets of population and food availability from FAO. Two methods of clustering are used and visualised to compare the results.
 <br/>
 
