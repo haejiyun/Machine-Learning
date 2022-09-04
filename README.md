@@ -6,7 +6,7 @@ Skills : Database, Data cleaning, Data processing, EDA, Visualisation, Workflow,
 
 ----------
 
-- **[SQL] Creation of Housing Database and Querie**<br/>
+- **[SQL] Creation of Housing Database and Queries**<br/>
 Presentation :<br/>
 Creation of SQL database based on UML diagram and SQL queries. The dataset contains 34,169 records on real estate sales in France with its information such as size, price, address, rooms, etc. Demographic dataset downloaded from INSEE was combined to it in order to add regional information. Multiple queries were executed to analyse regional real estate market.
 <br/>
