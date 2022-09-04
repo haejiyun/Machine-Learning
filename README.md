@@ -18,7 +18,11 @@ Table of contents
 - Machine Learning : Fake Bill Detection
 
 
+Projects
+----------
+
 [SQL] Creation of Housing Database and Queries
+------
 Presentation :
 Creation of SQL database based on UML diagram and SQL queries. The dataset contains 34,169 records on real estate sales in France with its information such as size, price, address, rooms, etc. Demographic dataset downloaded from INSEE was combined to it in order to add regional information. Multiple queries were executed to analyse regional real estate market.
 
