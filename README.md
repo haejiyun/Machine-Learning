@@ -14,25 +14,25 @@ Creation of SQL database based on UML diagram and SQL queries. The dataset conta
 
 - **[Analysis] Panorama of Food Security**<br/>
 Code : [click here](https://github.com/haejiyun/data_analysis_portfolio/blob/main/2.%20Analysis%20-%20public%20health/panorama_malnutrition.ipynb)<br/>
-Presentation :[updating..](https://github.com/haejiyun/data_analysis_portfolio/blob/main/2.%20Analysis%20-%20public%20health/panorama_malnutrition.ipynb)<br/>
+Presentation : [updating..]()<br/>
 Food security analysis with python by combining datasets of food aids, food availabity, population, malnutrition, food energy need from FAO. In order to understand food security status of 2017 on earth, world food availability, possible number of people the world can feed, usage of food, food aids distribution etc. were analysed and visualised.
 <br/>
 
 - **[Database] E-commerce Product Database**<br/>
 Code : [click here](https://github.com/haejiyun/data_analysis_portfolio/blob/main/3.%20Database%20-%20ecommerce/gestion_de_donnees.ipynb)<br/>
-Presentation : []()<br/>
+Presentation : [updating..]()<br/>
 E-commerce product data management with 825 products listed on ERP and 714 products listed on e-shop. Web generated information required data cleaning and data processing in order to bring it together with ERP generated product information. Sales and outlier prices were analysed to ensure data quality.
 <br/>
 
 - **[Analysis] E-commerce sales and customer profile**<br/>
 Code : [click here](https://github.com/haejiyun/data_analysis_portfolio/blob/main/4.%20Analysis%20-%20sales/analyse_ventes.ipynb)<br/>
-Presentation : []()<br/>
+Presentation : [updating..]()<br/>
 Two years e-commerce salses analysis from datasets of customers, product, and sales. Multiple data cleaning was required to analyse yearly sales, sales evolution through time, sales per category and customer profile. Different test statistics and visualisation were usded to study relations between variables.
 <br/>
 
 - **[Knime] Gender Equality Indicator Workflow**<br/>
 Workflow : [click here](https://github.com/haejiyun/data_analysis_portfolio/blob/main/5.%20Knime%20-%20Workflow/indicateurs_workflow.knime)<br/>
-Presentation : []()<br/>
+Presentation : [updating..]()<br/>
 Creation of workflow generating graphics showing gender equality within a company. The workflow is created from three datasets of employee, salary, and job information. Different graphics are generated from the workflow and the combinasion of datasets created a downloadable table to be used in Tableau for dashboard.
 <br/>
 
