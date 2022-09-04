@@ -7,7 +7,7 @@ This repository is about projects that I have completed during my data analysis 
 
 
 Table of contents
-----------
+------
 - SQL : Creation of Housing Database and Queries
 - Analysis : Panorama of Food Security
 - Database : E-commerce Product Database
@@ -19,10 +19,10 @@ Table of contents
 
 
 Projects
-----------
+------
 
 [SQL] Creation of Housing Database and Queries
-------
+----------
 Presentation :
 Creation of SQL database based on UML diagram and SQL queries. The dataset contains 34,169 records on real estate sales in France with its information such as size, price, address, rooms, etc. Demographic dataset downloaded from INSEE was combined to it in order to add regional information. Multiple queries were executed to analyse regional real estate market.
 
