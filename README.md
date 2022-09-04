@@ -36,7 +36,7 @@ Food security analysis with python by combining datasets of food aids, food avai
 [Database] E-commerce Product Database
 Code :
 Presentation :
-E-commerce product data management with 825 products listed on ERP and 714 products listed on e-shop. Web generated information required data cleaning and data processing in order to bring it together with ERP generated product information. Sales and outlier prices were analysed to ensure data quality
+E-commerce product data management with 825 products listed on ERP and 714 products listed on e-shop. Web generated information required data cleaning and data processing in order to bring it together with ERP generated product information. Sales and outlier prices were analysed to ensure data quality.
 
 
 [Analysis] E-commerce sales and customer profile
@@ -52,12 +52,17 @@ Creation of workflow generating graphics showing gender equality within a compan
 
 
 [Tableau] Drinking Water Dashboard
-Tableau :
+Dashboard :
+Creation do dashboard presenting drinking water situation in the world. Datasets related to country, political stability, mortality in relation with water, population, and drinking water were used to visualize differents safe water indicators.
 
-[Clustering] Country Market
+
+[Clustering] Country Food Market
 Code :
 Presentation :
+Country group analysis by clustering. Country groups were made based on information collected from datasets of population and food availability from FAO. Two methods of clustering are used and visualised to compare the results.
+
 
 [Machine Learning] Fake Bill Detection
 Code :
 Presentation :
+Modelling automatic fake bill detection. Le dataset containing geometric information of 1,500 bills is used for modelling. Two algorithms are tested to select the best performing one.
