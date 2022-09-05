@@ -8,7 +8,7 @@ Skills : Database, Data cleaning, Data processing, EDA, Visualisation, Workflow,
 ----------
 
 - **[SQL] Creation of House Sales Database and Queries**<br/>
-SQL : [click here](https://github.com/haejiyun/data_analysis_portfolio/blob/main/1.%20Sql%20-%20database%20and%20queries/DATAImmo.db)<br/>
+Database : [click here](https://github.com/haejiyun/data_analysis_portfolio/blob/main/1.%20Sql%20-%20database%20and%20queries/DATAImmo.db)<br/>
 Presentation : [click here](https://github.com/haejiyun/data_analysis_portfolio/blob/main/1.%20Sql%20-%20database%20and%20queries/creation_requete_bdd.pdf)<br/>
 Creation of SQL database based on UML diagram and SQL queries. The dataset contains 34,169 records on real estate sales in France with its information such as size, price, address, rooms, etc. Demographic dataset downloaded from INSEE was combined to it in order to add regional information. Multiple queries were executed to analyse regional real estate market.
 <br/>
