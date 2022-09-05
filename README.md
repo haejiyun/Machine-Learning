@@ -14,7 +14,7 @@ Creation of SQL database based on UML diagram and SQL queries. The dataset conta
 
 - **[Analysis] Panorama of Food Security**<br/>
 Code : [click here](https://github.com/haejiyun/data_analysis_portfolio/blob/main/2.%20Analysis%20-%20public%20health/panorama_malnutrition.ipynb)<br/>
-Presentation : [updating..]()<br/>
+Presentation : [click here](https://github.com/haejiyun/data_analysis_portfolio/blob/main/2.%20Analysis%20-%20public%20health/panorama_malnutrition.pdf)<br/>
 Food security analysis with python by combining datasets of food aids, food availabity, population, malnutrition, food energy need from FAO. In order to understand food security status of 2017 on earth, world food availability, possible number of people the world can feed, usage of food, food aids distribution etc. were analysed and visualised.
 <br/>
 
