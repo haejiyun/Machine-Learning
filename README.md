@@ -21,7 +21,6 @@ Food security analysis with python by combining datasets of food aids, food avai
 
 - **[Database] E-commerce Product Database**<br/>
 Code : [click here](https://github.com/haejiyun/data_analysis_portfolio/blob/main/3.%20Database%20-%20ecommerce/gestion_de_donnees.ipynb)<br/>
-Presentation : [updating..]()<br/>
 E-commerce product data management with 825 products listed on ERP and 714 products listed on e-shop. Web generated information required data cleaning and data processing in order to bring it together with ERP generated product information. Sales and outlier prices were analysed to ensure data quality.
 <br/>
 
