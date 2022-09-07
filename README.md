@@ -32,6 +32,7 @@ Two years e-commerce salses analysis from datasets of customers, product, and sa
 
 - **[Knime] Gender Equality Indicator Workflow**<br/>
 Workflow : [click here](https://github.com/haejiyun/data_analysis_portfolio/blob/main/5.%20Knime%20-%20Workflow/indicateurs_workflow.knime)<br/>
+Presentation : [click here](https://github.com/haejiyun/data_analysis_portfolio/blob/main/5.%20Knime%20-%20Workflow/indicateur_egalite_homme_femme.pdf)<br/>
 Creation of workflow generating graphics showing gender equality within a company. The workflow is created from three datasets of employee, salary, and job information. Different graphics are generated from the workflow and the combinasion of datasets created a downloadable table to be used in Tableau for dashboard.
 <br/>
 
