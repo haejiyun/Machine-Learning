@@ -26,7 +26,7 @@ E-commerce product data management with 825 products listed on ERP and 714 produ
 
 - **[Analysis] E-commerce sales and customer profile**<br/>
 Code : [click here](https://github.com/haejiyun/data_analysis_portfolio/blob/main/4.%20Analysis%20-%20sales/analyse_ventes.ipynb)<br/>
-Presentation : [updating..]()<br/>
+Presentation : [click here](https://github.com/haejiyun/data_analysis_portfolio/blob/main/4.%20Analysis%20-%20sales/analyse_ventes.pdf)<br/>
 Two years e-commerce salses analysis from datasets of customers, product, and sales. Multiple data cleaning was required to analyse yearly sales, sales evolution through time, sales per category and customer profile. Different test statistics and visualisation were usded to study relations between variables.
 <br/>
 
