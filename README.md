@@ -36,9 +36,9 @@ Presentation : [click here](https://github.com/haejiyun/data_analysis_portfolio/
 Creation of workflow generating graphics showing gender equality within a company. The workflow is created from three datasets of employee, salary, and job information. Different graphics are generated from the workflow and the combinasion of datasets created a downloadable table to be used in Tableau for dashboard.
 <br/>
 
-- **[Tableau] Drinking Water Dashboard**<br/>
+- **[Tableau] Drinking Water Dashboard/Storyboard**<br/>
 Dashboard : []()<br/>
-Creation do dashboard presenting drinking water situation in the world. Datasets related to country, political stability, mortality in relation with water, population, and drinking water were used to visualize differents safe water indicators.
+Creation of storyboard presenting drinking water situation in the world. Datasets related to country, political stability, mortality in relation with drinking water were used to visualize differents safe water indicators.
 <br/>
 
 - **[Clustering] Country Food Market**<br/>
