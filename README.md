@@ -37,7 +37,7 @@ Creation of workflow generating graphics showing gender equality within a compan
 <br/>
 
 - **[Tableau] Drinking Water Dashboard/Storyboard**<br/>
-Dashboard : []()<br/>
+Storyboard : []()<br/>
 Creation of storyboard presenting drinking water situation in the world. Datasets related to country, political stability, mortality in relation with drinking water were used to visualize differents safe water indicators.
 <br/>
 
