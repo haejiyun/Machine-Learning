@@ -42,8 +42,9 @@ Creation of storyboard presenting drinking water situation in the world. Dataset
 <br/>
 
 - **[Clustering] Country Food Market**<br/>
-Code : []()<br/>
-Presentation : []()<br/>
+Code - data cleaning : [click here](https://github.com/haejiyun/data_analysis_portfolio/blob/main/7.%20Clustering%20-%20country%20study/preparation_nettoyage.ipynb)<br/>
+Code - clustering & analysis : [click here](https://github.com/haejiyun/data_analysis_portfolio/blob/main/7.%20Clustering%20-%20country%20study/clustering_visualisation.ipynb)<br/>
+Presentation : [click here](https://github.com/haejiyun/data_analysis_portfolio/blob/main/7.%20Clustering%20-%20country%20study/market%20study.pdf)<br/>
 Country group analysis by clustering. Country groups were made based on information collected from datasets of population and food availability from FAO. Two methods of clustering are used and visualised to compare the results.
 <br/>
 
