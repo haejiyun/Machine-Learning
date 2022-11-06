@@ -49,6 +49,6 @@ Country group analysis by clustering. Country groups were made based on informat
 <br/>
 
 - **[Machine Learning] Fake Bill Detection**<br/>
-Code : []()<br/>
-Presentation : []()<br/>
+Code : [click here](https://github.com/haejiyun/data_analysis_portfolio/blob/main/8.%20Machine%20learning%20-%20fake%20bill%20detection/detection_faux_billet.ipynb)<br/>
+Presentation : [click here](https://github.com/haejiyun/data_analysis_portfolio/blob/main/8.%20Machine%20learning%20-%20fake%20bill%20detection/detection_faux_billet.pdf)<br/>
 Modelling automatic fake bill detection. Le dataset containing geometric information of 1,500 bills is used for modelling. Two algorithms are tested to select the best performing one.
