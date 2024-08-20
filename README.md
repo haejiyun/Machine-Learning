@@ -24,13 +24,13 @@ Unsupervised machine learning study applied on the socio-economic and political 
 <br/>
 
 - **[Clustering] Country Food Market**<br/>
-Code - data cleaning : [click here](https://github.com/haejiyun/Machine-Learning/blob/main/7.%20Clustering%20-%20country%20study/preparation_nettoyage.ipynb)<br/>
-Code - clustering & analysis : [click here](https://github.com/haejiyun/Machine-Learning/blob/main/7.%20Clustering%20-%20country%20study/clustering_visualisation.ipynb)<br/>
-Presentation : [click here](https://github.com/haejiyun/Machine-Learning/blob/main/7.%20Clustering%20-%20country%20study/market%20study.pdf)<br/>
+Code - data cleaning : [click here](https://github.com/haejiyun/Machine-Learning/blob/main/Sales%20Country%20Clustering/preparation_nettoyage.ipynb)<br/>
+Code - clustering & analysis : [click here](https://github.com/haejiyun/Machine-Learning/blob/main/Sales%20Country%20Clustering/clustering_visualisation.ipynb)<br/>
+Presentation : [click here](https://github.com/haejiyun/Machine-Learning/blob/main/Sales%20Country%20Clustering/market%20study.pdf)<br/>
 Country group analysis by clustering. Country groups were made based on information collected from datasets of population and food availability from FAO. Two methods of clustering are used and visualised to compare the results.
 <br/>
 
 - **[Machine Learning] Fake Bill Detection**<br/>
-Code : [click here](https://github.com/haejiyun/Machine-Learning/blob/main/8.%20Machine%20learning%20-%20fake%20bill%20detection/detection_faux_billet.ipynb)<br/>
-Presentation : [click here](https://github.com/haejiyun/Machine-Learning/blob/main/8.%20Machine%20learning%20-%20fake%20bill%20detection/detection_faux_billet.pdf)<br/>
+Code : [click here](https://github.com/haejiyun/Machine-Learning/blob/main/Fake%20Bill%20Detection/detection_faux_billet.ipynb)<br/>
+Presentation : [click here](https://github.com/haejiyun/Machine-Learning/blob/main/Fake%20Bill%20Detection/detection_faux_billet.pdf)<br/>
 Modelling automatic fake bill detection. Le dataset containing geometric information of 1,500 bills is used for modelling. Two algorithms are tested to select the best performing one.
