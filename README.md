@@ -1,44 +1,26 @@
-# data_analysis_portfolio
+# Machine Learning Portfolio
 <br/>
-This repository is about projects that I have completed during my data analysis course. <br/><br/>
-Tools : SQL, Python, Tableau, Knime <br/><br/>
-Skills : Database, Data cleaning, Data processing, EDA, Visualisation, Workflow, Machine Learning <br/>
+This repository presents my academical Machine Learning projects. <br/><br/>
 <br/>
 
 ----------
 
-- **[SQL] Creation of House Sales Database and Queries**<br/>
-Database : [click here](https://github.com/haejiyun/data_analysis_portfolio/blob/main/1.%20Sql%20-%20database%20and%20queries/DATAImmo.db)<br/>
-Presentation : [click here](https://github.com/haejiyun/data_analysis_portfolio/blob/main/1.%20Sql%20-%20database%20and%20queries/creation_requete_bdd.pdf)<br/>
-Creation of SQL database based on UML diagram and SQL queries. The dataset contains 34,169 records on real estate sales in France with its information such as size, price, address, rooms, etc. Demographic dataset downloaded from INSEE was combined to it in order to add regional information. Multiple queries were executed to analyse regional real estate market.
+- **[Python/Streamlit] Sentiment Analysis with NLP**<br/>
+Project : [Click here](https://airbnb-guest-reviews.streamlit.app/)<br/>
+Code : [Click here](https://github.com/haejiyun/statistics_big_data_dauphine/blob/main/NLP/projet_marketing.py)<br/>
+Streamlit Repo : [Click here](https://github.com/haejiyun/airbnb-reviews)<br/>
+The purpose of this project is to analyze Airbnb guest experiences in Paris across various time periods, leveraging advanced Natural Language Processing (NLP) techniques on guest reviews. By combining various NLP tasks, this study aims to provide meaningful insights and a holistic view of guest experiences. The analysis results were transformed into an interactive Streamlit application.
 <br/>
 
-- **[Analysis] Panorama of Food Security**<br/>
-Code : [click here](https://github.com/haejiyun/data_analysis_portfolio/blob/main/2.%20Analysis%20-%20public%20health/panorama_malnutrition.ipynb)<br/>
-Presentation : [click here](https://github.com/haejiyun/data_analysis_portfolio/blob/main/2.%20Analysis%20-%20public%20health/panorama_malnutrition.pdf)<br/>
-Food security analysis with python by combining datasets of food aids, food availabity, population, malnutrition, food energy need from FAO. In order to understand food security status of 2017 on earth, world food availability, possible number of people the world can feed, usage of food, food aids distribution etc. were analysed and visualised.
+- **[Python] Classification with Machine Learning Algorithms**<br/>
+Project : [Click here](https://github.com/haejiyun/statistics_big_data_dauphine/blob/main/Supervised%20Learning/supervised_learning.pdf)<br/>
+Classification of simulated socio-economic classes based on socio-demographic and economical data published by INSEE. The project treated imbalanced data.
+Logistic Regression, Random Forest, and SVM algorithms were trainend by cross-validation method selectiong best performing algorithms based on confusion matrix, ROC and AUC.
 <br/>
 
-- **[Database] E-commerce Product Database**<br/>
-Code : [click here](https://github.com/haejiyun/data_analysis_portfolio/blob/main/3.%20Database%20-%20ecommerce/gestion_de_donnees.ipynb)<br/>
-E-commerce product data management with 825 products listed on ERP and 714 products listed on e-shop. Web generated information required data cleaning and data processing in order to bring it together with ERP generated product information. Sales and outlier prices were analysed to ensure data quality.
-<br/>
-
-- **[Analysis] E-commerce sales and customer profile**<br/>
-Code : [click here](https://github.com/haejiyun/data_analysis_portfolio/blob/main/4.%20Analysis%20-%20sales/analyse_de_vente.ipynb)<br/>
-Presentation : [click here](https://github.com/haejiyun/data_analysis_portfolio/blob/main/4.%20Analysis%20-%20sales/analyse_ventes.pdf)<br/>
-Two years e-commerce salses analysis from datasets of customers, product, and sales. Multiple data cleaning was required to analyse yearly sales, sales evolution through time, sales per category and customer profile. Different test statistics and visualisation were usded to study relations between variables.
-<br/>
-
-- **[Knime] Gender Equality Indicator Workflow**<br/>
-Workflow : [click here](https://github.com/haejiyun/data_analysis_portfolio/blob/main/5.%20Knime%20-%20Workflow/indicateurs_workflow.knime)<br/>
-Presentation : [click here](https://github.com/haejiyun/data_analysis_portfolio/blob/main/5.%20Knime%20-%20Workflow/indicateur_egalite_homme_femme.pdf)<br/>
-Creation of workflow generating graphics showing gender equality within a company. The workflow is created from three datasets of employee, salary, and job information. Different graphics are generated from the workflow and the combinasion of datasets created a downloadable table to be used in Tableau for dashboard.
-<br/>
-
-- **[Tableau] Drinking Water Dashboard/Storyboard**<br/>
-Storyboard : [click here](https://public.tableau.com/app/profile/digitalhip/viz/drinkingwater_16629834019640/tateaupotable)<br/>
-Creation of storyboard presenting drinking water situation in the world. Datasets related to country, political stability, mortality in relation with drinking water were used to visualize differents safe water indicators.
+- **[Python] Clustering - Dimensionality Reduction - Rupture detection**<br/>
+Project : [Click here](https://github.com/haejiyun/statistics_big_data_dauphine/blob/main/Unsupervised%20Learning/Unsupervised_Learning_Haeji_YUN.pdf)<br/>
+Unsupervised machine learning study applied on the socio-economic and political database used in the book “Une histoire du conflit politique” to analyse characteristics of french communes over the years.
 <br/>
 
 - **[Clustering] Country Food Market**<br/>
