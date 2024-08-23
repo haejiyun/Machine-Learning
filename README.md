@@ -1,7 +1,6 @@
 # Machine Learning Portfolio
 
-- Prediction of Socio-Economic Classes
-- Clustering of French Cities and Rupture Detection of Voting Behavior
+This is collection of my machine learning projects
 
 ----------
 ## [Python] Prediction of Socio-Economic Classes
