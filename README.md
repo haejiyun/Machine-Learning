@@ -29,10 +29,38 @@ Code : <a href="https://github.com/haejiyun/Machine-Learning/blob/main/Supervise
 <br/>
 
 
-- **[Python] Clustering - Dimensionality Reduction - Rupture detection**<br/>
+----------
+
+##[Python] Clustering of French Cities and Rupture Detection of Voting Behavior
+
+**Algorithms**: PCA, t-SNE, UMAP, K-means, PELT<br/>
+
+“Une histoire du conflit” by Thomas Piketty and Julia Cagé explores the evolution of electoral social structures in France. The book serves as a valuable source of socio-economic data over time.
+
+In our project, we utilize data such as voting preferences, average income, average age, educational attainment, home ownership rates, and population to analyze the characteristics of different clusters of areas in France in relation to voting behavior. Furthermore, we identify points where significant changes in voting behavior occur.
+
+As this study employs unsupervised learning techniques, much of the analysis is graphical and visual, allowing us to uncover meaningful insights from the data.
+
+We employ various techniques for dimensionality reduction, clustering, and rupture detection.
+
+<p align="center">
+  <img src="https://github.com/haejiyun/Machine-Learning/blob/main/Unsupervised%20Learning/correlation-circle.png" alt="distribution" width="350" height="200">
+  <img src="https://github.com/haejiyun/Machine-Learning/blob/main/Unspervised%20Learning/pelt.png" alt="heatmap" width="400" height="200">
+<p/>
+
+
 Project : [Click here](https://github.com/haejiyun/Machine-Learning/blob/main/Unsupervised%20Learning/Unsupervised_Learning_Haeji_YUN.pdf)<br/>
+Code : [Click here](https://github.com/haejiyun/Machine-Learning/blob/main/Unsupervised%20Learning/Unsupervised_Learning_Haeji_YUN.py)<br/>
 Unsupervised machine learning study applied on the socio-economic and political database used in the book “Une histoire du conflit politique” to analyse characteristics of french communes over the years.
 <br/>
+
+
+
+
+
+
+
+
 
 - **[Python] Country Food Market Clustering**<br/>
 Code - data cleaning : [click here](https://github.com/haejiyun/Machine-Learning/blob/main/Sales%20Country%20Clustering/preparation_nettoyage.ipynb)<br/>
