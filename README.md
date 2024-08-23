@@ -5,7 +5,7 @@ This repository showcases a collection of my academic machine learning projects.
 
 ----------
 
-- **[Python] Prediction of Socio-Economic Classes**<br/>
+## [Python] Prediction of Socio-Economic Classes
 Project : [Click here](https://github.com/haejiyun/Machine-Learning/blob/main/Supervised%20Learning/supervised_learning.pdf)<br/>
 Algorithms: Logistic Regression, Random Forest, SVM
 Techniques: Cross-Validation, ROC, AUC
