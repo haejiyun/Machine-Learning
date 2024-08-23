@@ -42,8 +42,8 @@ As this study employs unsupervised learning techniques, much of the analysis is 
 We employ various techniques for dimensionality reduction, clustering, and rupture detection.
 
 <p align="center">
-  <img src="https://github.com/haejiyun/Machine-Learning/blob/main/Unsupervised%20Learning/correlation-circle.png" alt="distribution" width="350" height="200">
-  <img src="https://github.com/haejiyun/Machine-Learning/blob/main/Unsupervised%20Learning/pelt.png" alt="pelt" width="400" height="200">
+  <img src="https://github.com/haejiyun/Machine-Learning/blob/main/Unsupervised%20Learning/correlation-circle.png" width="350" height="200">
+  <img src="https://github.com/haejiyun/Machine-Learning/blob/main/Unsupervised%20Learning/pelt.png" width="400" height="200">
 <p/>
 
 <a href="https://github.com/haejiyun/Machine-Learning/blob/main/Unsupervised%20Learning/Unsupervised_Learning_Haeji_YUN.pdf">Project</a>; <a href="https://github.com/haejiyun/Machine-Learning/blob/main/Unsupervised%20Learning/Unsupervised_Learning_Haeji_YUN.py">Code</a><br/>
@@ -53,22 +53,21 @@ We employ various techniques for dimensionality reduction, clustering, and ruptu
 ----------
 ## [Python/Deep Learning] Image classification of hollywood actresses
 
-**Algorithms**: PCA, t-SNE, UMAP, K-means, PELT<br/>
+**Algorithms**: VGG, LeNet, EfficientNet
 
-“Une histoire du conflit” by Thomas Piketty and Julia Cagé explores the evolution of electoral social structures in France. The book serves as a valuable source of socio-economic data over time.
+This study aims to classify images of Hollywood actresses to correctly identify each individual. The classification involves three classes: Keira, Nathalie, and Others. To accurately assign the correct class to each image, we fine-tuned several deep learning algorithms. 
 
-In our project, we utilize data such as voting preferences, average income, average age, educational attainment, home ownership rates, and population to analyze the characteristics of different clusters of areas in France in relation to voting behavior. Furthermore, we identify points where significant changes in voting behavior occur.
+Our dataset consists of 429 images for training, and 168 images each for validation and testing. Given the small size of the dataset, data augmentation techniques were applied to enhance the model's performance by artificially increasing the diversity of the training data.
 
-As this study employs unsupervised learning techniques, much of the analysis is graphical and visual, allowing us to uncover meaningful insights from the data.
-
-We employ various techniques for dimensionality reduction, clustering, and rupture detection.
+By leveraging these techniques, we aimed to improve the model's generalization and accuracy in recognizing and differentiating between the actresses.
 
 <p align="center">
-  <img src="https://github.com/haejiyun/Machine-Learning/blob/main/Unsupervised%20Learning/correlation-circle.png" alt="distribution" width="350" height="200">
-  <img src="https://github.com/haejiyun/Machine-Learning/blob/main/Unsupervised%20Learning/pelt.png" alt="pelt" width="400" height="200">
+  <img src="https://github.com/haejiyun/Machine-Learning/blob/main/Deep%20Learning/keira.png" width="100" height="150">
+  <img src="https://github.com/haejiyun/Machine-Learning/blob/main/Deep%20Learning/nathalie.png" width="100" height="150">
+  <img src="https://github.com/haejiyun/Machine-Learning/blob/main/Deep%20Learning/others.png" width="100" height="150">
 <p/>
 
-<a href="https://github.com/haejiyun/Machine-Learning/blob/main/Unsupervised%20Learning/Unsupervised_Learning_Haeji_YUN.pdf">Project</a>; <a href="https://github.com/haejiyun/Machine-Learning/blob/main/Unsupervised%20Learning/Unsupervised_Learning_Haeji_YUN.py">Code</a><br/>
+<a href="https://github.com/haejiyun/Machine-Learning/blob/main/Deep%20Learning/deep-learning-project.ipynb">Code</a><br/>
 <br/>
 
 
@@ -95,7 +94,7 @@ When expanding into new markets, selecting the right target countries is crucial
 Extensive data cleaning and preprocessing were performed, followed by preliminary data exploration. These steps were essential to apply various clustering and dimensionality reduction techniques effectively.
 
 <p align="center">
-  <img src="https://github.com/haejiyun/Machine-Learning/blob/main/Sales%20Country%20Clustering/clustering.png" alt="distribution" width="700" height="300">
+  <img src="https://github.com/haejiyun/Machine-Learning/blob/main/Sales%20Country%20Clustering/clustering.png" width="700" height="300">
 <p/>
 
 <a href="https://github.com/haejiyun/Machine-Learning/blob/main/Sales%20Country%20Clustering/market%20study.pdf">Project</a>; <a href="https://github.com/haejiyun/Machine-Learning/blob/main/Sales%20Country%20Clustering/preparation_nettoyage.ipynb">Code-Data Cleaning</a>; <a href="https://github.com/haejiyun/Machine-Learning/blob/main/Sales%20Country%20Clustering/clustering_visualisation.ipynb">Code-Clustering</a><br/>
@@ -111,7 +110,7 @@ With the rise in counterfeit currency circulation worldwide, various methods suc
 In this project, we focus on detecting counterfeit bills solely based on their geometrical features. Our dataset consists of 1,500 bills, of which 500 are counterfeit. We explore both unsupervised learning through clustering and supervised learning through classification to identify the most effective approach.
 
 <p align="center">
-  <img src="https://github.com/haejiyun/Machine-Learning/blob/main/Fake%20Bill%20Detection/variability.png" alt="distribution" width="700" height="200">
+  <img src="https://github.com/haejiyun/Machine-Learning/blob/main/Fake%20Bill%20Detection/variability.png"  width="700" height="200">
 <p/>
 
 <a href="https://github.com/haejiyun/Machine-Learning/blob/main/Fake%20Bill%20Detection/detection_faux_billet.pdf">Project</a>; <a href="https://github.com/haejiyun/Machine-Learning/blob/main/Fake%20Bill%20Detection/detection_faux_billet.ipynb">Code</a><br/>
