@@ -31,7 +31,7 @@ Code : <a href="https://github.com/haejiyun/Machine-Learning/blob/main/Supervise
 
 ----------
 
-##[Python] Clustering of French Cities and Rupture Detection of Voting Behavior
+## [Python] Clustering of French Cities and Rupture Detection of Voting Behavior
 
 **Algorithms**: PCA, t-SNE, UMAP, K-means, PELT<br/>
 
@@ -45,7 +45,7 @@ We employ various techniques for dimensionality reduction, clustering, and ruptu
 
 <p align="center">
   <img src="https://github.com/haejiyun/Machine-Learning/blob/main/Unsupervised%20Learning/correlation-circle.png" alt="distribution" width="350" height="200">
-  <img src="https://github.com/haejiyun/Machine-Learning/blob/main/Unspervised%20Learning/pelt.png" alt="heatmap" width="400" height="200">
+  <img src="https://github.com/haejiyun/Machine-Learning/blob/main/Unsupervised%20Learning/pelt.png" alt="pelt" width="400" height="200">
 <p/>
 
 
