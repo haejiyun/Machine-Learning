@@ -60,7 +60,7 @@ When expanding into new markets, selecting the right target countries is crucial
 Extensive data cleaning and preprocessing were performed, followed by preliminary data exploration. These steps were essential to apply various clustering and dimensionality reduction techniques effectively.
 
 <p align="center">
-  <img src="https://github.com/haejiyun/Machine-Learning/blob/main/Sales%20Country%20Clustering/clustering.png" alt="distribution" width="800" height="200">
+  <img src="https://github.com/haejiyun/Machine-Learning/blob/main/Sales%20Country%20Clustering/clustering.png" alt="distribution" width="700" height="300">
 <p/>
 
 <a href="https://github.com/haejiyun/Machine-Learning/blob/main/Sales%20Country%20Clustering/market%20study.pdf">Project</a>; <a href="https://github.com/haejiyun/Machine-Learning/blob/main/Sales%20Country%20Clustering/preparation_nettoyage.ipynb">Code-Data Cleaning</a>; <a href="https://github.com/haejiyun/Machine-Learning/blob/main/Sales%20Country%20Clustering/clustering_visualisation.ipynb">Code-Clustering</a><br/>
