@@ -26,8 +26,8 @@ Classical classification algorithms are fine-tuned to achieve a target precision
 <p/>
 
 <br/>
-Project : [Click here](https://github.com/haejiyun/Machine-Learning/blob/main/Supervised%20Learning/supervised_learning.pdf)<br/>
-Code : [Click here](https://github.com/haejiyun/Machine-Learning/blob/main/Supervised%20Learning/supervised_learning.py)<br/>
+Project : [Click here](https://github.com/haejiyun/Machine-Learning/blob/main/Supervised%20Learning/supervised_learning.pdf)  <br/>
+Code : [Click here](https://github.com/haejiyun/Machine-Learning/blob/main/Supervised%20Learning/supervised_learning.py)  <br/>
 <br/>
 
 
