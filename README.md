@@ -17,7 +17,7 @@ Socio-economics is a multifaceted concept that encompasses factors such as incom
 In this project, we aim to classify 99,989 individuals in France into two distinct classes, which remain undisclosed for confidentiality purposes. The classification process relies solely on data, ensuring that it is free from any preconceived biases or assumptions regarding the classes. A significant challenge is the imbalanced nature of the classes. The input data includes socio-economic variables such as education level, household type, age, gender, and city of residence.
 
 Classical classification algorithms are fine-tuned to achieve a target precision of 90%.
-<img src="[https://raw.githubusercontent.com/username/repository/branch/path/to/image.png](https://github.com/haejiyun/Machine-Learning/blob/main/Supervised%20Learning/ROC.png)" alt="ROC" width="300" height="200">
+<img src="https://github.com/haejiyun/Machine-Learning/blob/main/Supervised%20Learning/ROC.png" alt="ROC" width="300" height="200">
 <br/>
 
 
