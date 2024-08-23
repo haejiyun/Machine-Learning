@@ -20,7 +20,7 @@ Classical classification algorithms are fine-tuned to achieve a target precision
 <br/>
 <p align="center">
   <img src="https://github.com/haejiyun/Machine-Learning/blob/main/Supervised%20Learning/distribution.png" alt="distribution" width="250" height="200">
-  <img src="https://github.com/haejiyun/Machine-Learning/blob/main/Supervised%20Learning/heatmap.png" alt="heatmap" width="250" height="200">
+  <img src="https://github.com/haejiyun/Machine-Learning/blob/main/Supervised%20Learning/heatmap.png" alt="heatmap" width="300" height="200">
   <img src="https://github.com/haejiyun/Machine-Learning/blob/main/Supervised%20Learning/ROC.png" alt="ROC" width="250" height="200">
 <p align="center">
 <br/>
