@@ -69,14 +69,14 @@ Extensive data cleaning and preprocessing were performed, followed by preliminar
 ----------
 ## [Python] Fake Bill Detection
 
-**Algorithms**: PCA, K-means, Hierarchical Clustering<br/>
+**Algorithms**: K-means, Logistic Regression
 
-When expanding into new markets, selecting the right target countries is crucial for successful and strategic market expansion. This project focuses on identifying optimal countries for chicken exports on a global scale. To achieve this, we conducted an analysis using data related to country fact sheets and food availability provided by the FAO.
+With the rise in counterfeit currency circulation worldwide, various methods such as analyzing color, texture, and watermarks are used to detect fake bills.
 
-Extensive data cleaning and preprocessing were performed, followed by preliminary data exploration. These steps were essential to apply various clustering and dimensionality reduction techniques effectively.
+In this project, we focus on detecting counterfeit bills solely based on their geometrical features. Our dataset consists of 1,500 bills, of which 500 are counterfeit. We explore both unsupervised learning through clustering and supervised learning through classification to identify the most effective approach.
 
 <p align="center">
-  <img src="https://github.com/haejiyun/Machine-Learning/blob/main/Sales%20Country%20Clustering/clustering.png" alt="distribution" width="800" height="200">
+  <img src="https://github.com/haejiyun/Machine-Learning/blob/main/Fake%20Bill%20Detection/variability.png" alt="distribution" width="700" height="200">
 <p/>
 
 <a href="https://github.com/haejiyun/Machine-Learning/blob/main/Fake%20Bill%20Detection/detection_faux_billet.pdf">Project</a>; <a href="https://github.com/haejiyun/Machine-Learning/blob/main/Fake%20Bill%20Detection/detection_faux_billet.ipynb">Code</a><br/>
