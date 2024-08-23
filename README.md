@@ -24,7 +24,7 @@ Classical classification algorithms are fine-tuned to achieve a target precision
   <img src="https://github.com/haejiyun/Machine-Learning/blob/main/Supervised%20Learning/ROC.png" alt="ROC" width="250" height="200">
 <p/>
 
-<a href="https://github.com/haejiyun/Machine-Learning/blob/main/Supervised%20Learning/supervised_learning.pdf" target="_blank">Project</a>; <a href="https://github.com/haejiyun/Machine-Learning/blob/main/Supervised%20Learning/supervised_learning.py" target="_blank">Code</a><br/>
+<a href="https://github.com/haejiyun/Machine-Learning/blob/main/Supervised%20Learning/supervised_learning.pdf">Project</a>; <a href="https://github.com/haejiyun/Machine-Learning/blob/main/Supervised%20Learning/supervised_learning.py">Code</a><br/>
 <br/>
 
 
@@ -47,10 +47,7 @@ We employ various techniques for dimensionality reduction, clustering, and ruptu
   <img src="https://github.com/haejiyun/Machine-Learning/blob/main/Unsupervised%20Learning/pelt.png" alt="pelt" width="400" height="200">
 <p/>
 
-
-Project : [Click here](https://github.com/haejiyun/Machine-Learning/blob/main/Unsupervised%20Learning/Unsupervised_Learning_Haeji_YUN.pdf)<br/>
-Code : [Click here](https://github.com/haejiyun/Machine-Learning/blob/main/Unsupervised%20Learning/Unsupervised_Learning_Haeji_YUN.py)<br/>
-Unsupervised machine learning study applied on the socio-economic and political database used in the book “Une histoire du conflit politique” to analyse characteristics of french communes over the years.
+<a href="https://github.com/haejiyun/Machine-Learning/blob/main/Unsupervised%20Learning/Unsupervised_Learning_Haeji_YUN.pdf">Project</a>; <a href="https://github.com/haejiyun/Machine-Learning/blob/main/Unsupervised%20Learning/Unsupervised_Learning_Haeji_YUN.py">Code</a><br/>
 <br/>
 
 
