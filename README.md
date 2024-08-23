@@ -3,8 +3,8 @@
 This repository showcases a collection of my academic machine learning projects. The projects cover a range of techniques, from sentiment analysis using natural language processing to supervised and unsupervised learning algorithms for classification and clustering tasks. Each project demonstrates my ability to apply appropriate machine learning methods to real-world problems and communicate the insights through interactive applications and presentations.
 <br/>
 
-----------
 
+----------
 ## [Python] Prediction of Socio-Economic Classes
 
 **Algorithms**: Logistic Regression, Random Forest, SVM<br/>
@@ -29,7 +29,6 @@ Classical classification algorithms are fine-tuned to achieve a target precision
 
 
 ----------
-
 ## [Python] Clustering of French Cities and Rupture Detection of Voting Behavior
 
 **Algorithms**: PCA, t-SNE, UMAP, K-means, PELT<br/>
@@ -51,21 +50,35 @@ We employ various techniques for dimensionality reduction, clustering, and ruptu
 <br/>
 
 
+----------
+## [Python] Country Selection for Chicken Export by Clustering
 
+**Algorithms**: PCA, K-means, Hierarchical Clustering<br/>
 
+When expanding into new markets, selecting the right target countries is crucial for successful and strategic market expansion. This project focuses on identifying optimal countries for chicken exports on a global scale. To achieve this, we conducted an analysis using data related to country fact sheets and food availability provided by the FAO.
 
+Extensive data cleaning and preprocessing were performed, followed by preliminary data exploration. These steps were essential to apply various clustering and dimensionality reduction techniques effectively.
 
+<p align="center">
+  <img src="https://github.com/haejiyun/Machine-Learning/blob/main/Sales%20Country%20Clustering/clustering.png" alt="distribution" width="800" height="200">
+<p/>
 
-
-
-- **[Python] Country Food Market Clustering**<br/>
-Code - data cleaning : [click here](https://github.com/haejiyun/Machine-Learning/blob/main/Sales%20Country%20Clustering/preparation_nettoyage.ipynb)<br/>
-Code - clustering & analysis : [click here](https://github.com/haejiyun/Machine-Learning/blob/main/Sales%20Country%20Clustering/clustering_visualisation.ipynb)<br/>
-Presentation : [click here](https://github.com/haejiyun/Machine-Learning/blob/main/Sales%20Country%20Clustering/market%20study.pdf)<br/>
-Country group analysis by clustering. Country groups were made based on information collected from datasets of population and food availability from FAO. Two methods of clustering are used and visualised to compare the results.
+<a href="https://github.com/haejiyun/Machine-Learning/blob/main/Sales%20Country%20Clustering/market%20study.pdf">Project</a>; <a href="https://github.com/haejiyun/Machine-Learning/blob/main/Sales%20Country%20Clustering/preparation_nettoyage.ipynb">Code-Data Cleaning</a>; <a href="https://github.com/haejiyun/Machine-Learning/blob/main/Sales%20Country%20Clustering/clustering_visualisation.ipynb">Code-Clustering</a><br/>
 <br/>
 
-- **[Python] Fake Bill Detection**<br/>
-Code : [click here](https://github.com/haejiyun/Machine-Learning/blob/main/Fake%20Bill%20Detection/detection_faux_billet.ipynb)<br/>
-Presentation : [click here](https://github.com/haejiyun/Machine-Learning/blob/main/Fake%20Bill%20Detection/detection_faux_billet.pdf)<br/>
-Modelling automatic fake bill detection. Le dataset containing geometric information of 1,500 bills is used for modelling. Two algorithms are tested to select the best performing one.
+----------
+## [Python] Fake Bill Detection
+
+**Algorithms**: PCA, K-means, Hierarchical Clustering<br/>
+
+When expanding into new markets, selecting the right target countries is crucial for successful and strategic market expansion. This project focuses on identifying optimal countries for chicken exports on a global scale. To achieve this, we conducted an analysis using data related to country fact sheets and food availability provided by the FAO.
+
+Extensive data cleaning and preprocessing were performed, followed by preliminary data exploration. These steps were essential to apply various clustering and dimensionality reduction techniques effectively.
+
+<p align="center">
+  <img src="https://github.com/haejiyun/Machine-Learning/blob/main/Sales%20Country%20Clustering/clustering.png" alt="distribution" width="800" height="200">
+<p/>
+
+<a href="https://github.com/haejiyun/Machine-Learning/blob/main/Fake%20Bill%20Detection/detection_faux_billet.pdf">Project</a>; <a href="https://github.com/haejiyun/Machine-Learning/blob/main/Fake%20Bill%20Detection/detection_faux_billet.ipynb">Code</a><br/>
+<br/>
+
