@@ -51,6 +51,43 @@ We employ various techniques for dimensionality reduction, clustering, and ruptu
 
 
 ----------
+## [Python/Deep Learning] Image classification of hollywood actresses
+
+**Algorithms**: PCA, t-SNE, UMAP, K-means, PELT<br/>
+
+“Une histoire du conflit” by Thomas Piketty and Julia Cagé explores the evolution of electoral social structures in France. The book serves as a valuable source of socio-economic data over time.
+
+In our project, we utilize data such as voting preferences, average income, average age, educational attainment, home ownership rates, and population to analyze the characteristics of different clusters of areas in France in relation to voting behavior. Furthermore, we identify points where significant changes in voting behavior occur.
+
+As this study employs unsupervised learning techniques, much of the analysis is graphical and visual, allowing us to uncover meaningful insights from the data.
+
+We employ various techniques for dimensionality reduction, clustering, and rupture detection.
+
+<p align="center">
+  <img src="https://github.com/haejiyun/Machine-Learning/blob/main/Unsupervised%20Learning/correlation-circle.png" alt="distribution" width="350" height="200">
+  <img src="https://github.com/haejiyun/Machine-Learning/blob/main/Unsupervised%20Learning/pelt.png" alt="pelt" width="400" height="200">
+<p/>
+
+<a href="https://github.com/haejiyun/Machine-Learning/blob/main/Unsupervised%20Learning/Unsupervised_Learning_Haeji_YUN.pdf">Project</a>; <a href="https://github.com/haejiyun/Machine-Learning/blob/main/Unsupervised%20Learning/Unsupervised_Learning_Haeji_YUN.py">Code</a><br/>
+<br/>
+
+
+----------
+## [Python/Deep Learning] Rakuten France Multimodal Product Data Classification
+
+**Algorithms**: VGG16, Logistic Regression, SVC, Random Forest Classifier, Voting Classifier
+
+The Rakuten has issued a challenge on the ENS Challenge data site. The goal is to correctly classify 84,916 products into one of 27 categories on their e-commerce platform, with the weighted F1-score as the performance metric.
+
+We performed extensive data cleaning, processing, and exploration on both text and image data, including natural language processing (NLP) techniques.
+
+Both classical machine learning algorithms and deep learning models were applied and fine-tuned to identify the best-performing model.
+
+<a href="https://rakuten-bimodal-classification.streamlit.app/">Project</a>; <a href="https://github.com/haejiyun/Machine-Learning/blob/main/Rakuten%20Product%20Classification/1.%20EDA.ipynb">Code-EDA</a>; <a href="https://github.com/haejiyun/Machine-Learning/blob/main/Rakuten%20Product%20Classification/2.%20ML.ipynb">Code-Classical Machine Learning</a>; <a href="https://github.com/haejiyun/Machine-Learning/blob/main/Rakuten%20Product%20Classification/3.%20Deep.ipynb">Code-Deep Learning</a><br/>
+<br/>
+
+
+----------
 ## [Python] Country Selection for Chicken Export by Clustering
 
 **Algorithms**: PCA, K-means, Hierarchical Clustering<br/>
