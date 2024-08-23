@@ -5,10 +5,18 @@ This repository showcases a collection of my academic machine learning projects.
 
 ----------
 
-- **[Python] Classification with Machine Learning Algorithms**<br/>
+- **[Python] Prediction of Socio-Economic Classes**<br/>
 Project : [Click here](https://github.com/haejiyun/Machine-Learning/blob/main/Supervised%20Learning/supervised_learning.pdf)<br/>
-Classification of simulated socio-economic classes based on socio-demographic and economical data published by INSEE. The project treated imbalanced data.
-Logistic Regression, Random Forest, and SVM algorithms were trainend by cross-validation method selectiong best performing algorithms based on confusion matrix, ROC and AUC.
+Algorithms: Logistic Regression, Random Forest, SVM
+Techniques: Cross-Validation, ROC, AUC
+Metrics: Accuracy, F1 Score, Contingency Table, Confusion Matrix
+Challenges: Unknown Classes, Imbalanced Data
+
+Socio-economics is a multifaceted concept that encompasses factors such as income, profession, education, and more, within a society. Although there are no universal socio-economic classifications, distinguishing between socio-economic classes is necessary for various purposes.
+
+In this project, we aim to classify 99,989 individuals in France into two distinct classes, which remain undisclosed for confidentiality purposes. The classification process relies solely on data, ensuring that it is free from any preconceived biases or assumptions regarding the classes. A significant challenge is the imbalanced nature of the classes. The input data includes socio-economic variables such as education level, household type, age, gender, and city of residence.
+
+Classical classification algorithms are fine-tuned to achieve a target precision of 90%.
 <br/>
 
 - **[Python] Clustering - Dimensionality Reduction - Rupture detection**<br/>
