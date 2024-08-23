@@ -1,6 +1,6 @@
 # Machine Learning Portfolio
 
-This is collection of my machine learning projects
+
 
 ----------
 ## [Python] Prediction of Socio-Economic Classes
