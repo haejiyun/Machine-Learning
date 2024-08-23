@@ -6,18 +6,20 @@ This repository showcases a collection of my academic machine learning projects.
 ----------
 
 ## [Python] Prediction of Socio-Economic Classes
-Project : [Click here](https://github.com/haejiyun/Machine-Learning/blob/main/Supervised%20Learning/supervised_learning.pdf)<br/>
-Code : [Click here](https://github.com/haejiyun/Machine-Learning/blob/main/Supervised%20Learning/supervised_learning.py)<br/>
-Algorithms: Logistic Regression, Random Forest, SVM
-Techniques: Cross-Validation, ROC, AUC
-Metrics: Accuracy, F1 Score, Contingency Table, Confusion Matrix
-Challenges: Unknown Classes, Imbalanced Data
+
+Algorithms: Logistic Regression, Random Forest, SVM<br/>
+Techniques: Cross-Validation, ROC, AUC<br/>
+Metrics: Accuracy, F1 Score, Contingency Table, Confusion Matrix<br/>
+Challenges: Unknown Classes, Imbalanced Data<br/>
 
 Socio-economics is a multifaceted concept that encompasses factors such as income, profession, education, and more, within a society. Although there are no universal socio-economic classifications, distinguishing between socio-economic classes is necessary for various purposes.
 
 In this project, we aim to classify 99,989 individuals in France into two distinct classes, which remain undisclosed for confidentiality purposes. The classification process relies solely on data, ensuring that it is free from any preconceived biases or assumptions regarding the classes. A significant challenge is the imbalanced nature of the classes. The input data includes socio-economic variables such as education level, household type, age, gender, and city of residence.
 
-Classical classification algorithms are fine-tuned to achieve a target precision of 90%.
+Classical classification algorithms are fine-tuned to achieve a target precision of 90%.<br/>
+
+Project : [Click here](https://github.com/haejiyun/Machine-Learning/blob/main/Supervised%20Learning/supervised_learning.pdf)<br/>
+Code : [Click here](https://github.com/haejiyun/Machine-Learning/blob/main/Supervised%20Learning/supervised_learning.py)<br/>
 <br/>
 <p align="center">
   <img src="https://github.com/haejiyun/Machine-Learning/blob/main/Supervised%20Learning/distribution.png" alt="distribution" width="250" height="200">
