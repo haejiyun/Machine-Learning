@@ -1,8 +1,6 @@
 # Machine Learning Portfolio
 
-Welcome to my Machine Learning Portfolio, where I showcase a collection of diverse projects demonstrating my expertise in various aspects of machine learning and deep learning. Each project presented here highlights my approach to tackling real-world problems using cutting-edge algorithms, extensive data processing, and thoughtful model evaluation. 
-
-From socio-economic class prediction to detecting counterfeit bills and classifying images of Hollywood actresses, this portfolio provides a glimpse into the breadth and depth of my skills in both supervised and unsupervised learning. Whether it's fine-tuning deep learning models or exploring complex data through clustering, each project is accompanied by detailed documentation, code, and visual insights, reflecting a commitment to rigorous analysis and innovation in the field of machine learning.
+Welcome to my Machine Learning Portfolio, where I showcase a collection of diverse projects demonstrating my expertise in various aspects of machine learning and deep learning. Each project presented here highlights my approach to tackling real-world problems using cutting-edge algorithms, extensive data processing, and thoughtful model evaluation. From socio-economic class prediction to detecting counterfeit bills and classifying images of Hollywood actresses, this portfolio provides a glimpse into the breadth and depth of my skills in both supervised and unsupervised learning. 
 
 ----------
 ## [Python] Prediction of Socio-Economic Classes
