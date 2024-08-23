@@ -1,8 +1,7 @@
 # Machine Learning Portfolio
 
-This repository showcases a collection of my academic machine learning projects. The projects cover a range of techniques, from sentiment analysis using natural language processing to supervised and unsupervised learning algorithms for classification and clustering tasks. Each project demonstrates my ability to apply appropriate machine learning methods to real-world problems and communicate the insights through interactive applications and presentations.
-<br/>
-
+- Prediction of Socio-Economic Classes
+- Clustering of French Cities and Rupture Detection of Voting Behavior
 
 ----------
 ## [Python] Prediction of Socio-Economic Classes
