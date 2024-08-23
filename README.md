@@ -62,9 +62,9 @@ Our dataset consists of 429 images for training, and 168 images each for validat
 By leveraging these techniques, we aimed to improve the model's generalization and accuracy in recognizing and differentiating between the actresses.
 
 <p align="center">
-  <img src="https://github.com/haejiyun/Machine-Learning/blob/main/Deep%20Learning/keira.png" width="100" height="150">
-  <img src="https://github.com/haejiyun/Machine-Learning/blob/main/Deep%20Learning/nathalie.png" width="100" height="150">
-  <img src="https://github.com/haejiyun/Machine-Learning/blob/main/Deep%20Learning/others.png" width="100" height="150">
+  <img src="https://github.com/haejiyun/Machine-Learning/blob/main/Deep%20Learning/keira.png" width="120" height="150">
+  <img src="https://github.com/haejiyun/Machine-Learning/blob/main/Deep%20Learning/nathalie.png" width="120" height="150">
+  <img src="https://github.com/haejiyun/Machine-Learning/blob/main/Deep%20Learning/others.png" width="120" height="150">
 <p/>
 
 <a href="https://github.com/haejiyun/Machine-Learning/blob/main/Deep%20Learning/deep-learning-project.ipynb">Code</a><br/>
