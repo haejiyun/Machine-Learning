@@ -1,0 +1,17 @@
+Pillow
+opencv-python
+awesome_streamlit
+wordcloud
+requests
+numpy
+matplotlib
+seaborn
+nltk
+gensim
+scikit-learn
+keras
+tensorflow
+tqdm
+notebook
+ipywidgets
+stqdm
